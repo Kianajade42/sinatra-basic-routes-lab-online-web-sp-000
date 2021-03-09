@@ -7,4 +7,6 @@ end
 get '/hometown' do
   "My hometown is Michigan"
 end
+get '/favorite-song'
+"My favorite song is impossible to choose"
 end
