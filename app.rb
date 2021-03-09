@@ -7,3 +7,4 @@ end
 get '/hometown' do
   "My hometown is Michigan"
 end
+end
